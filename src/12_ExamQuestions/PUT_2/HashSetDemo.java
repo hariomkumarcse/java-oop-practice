@@ -9,7 +9,6 @@ public class HashSetDemo
 		names.add("Hariom");
 		names.add("Ram Kumar");
 		names.add("Pradha Ji");
-		names.add("Jagan");
 		System.out.println("HashSet : " + names);
 	}	
 }
