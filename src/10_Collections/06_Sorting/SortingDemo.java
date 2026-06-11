@@ -6,7 +6,7 @@ public class SortingDemo
 {
 	public static void main(String[] args)
 	{
-		List<String> names = new ArryList<>();
+		List<String> names = new ArrayList<>();
 		names.add("Ravi");
 		names.add("Suresh");
 		names.add("Mahesh");
