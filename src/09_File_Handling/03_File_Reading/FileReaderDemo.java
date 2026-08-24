@@ -7,7 +7,7 @@ public class FileReaderDemo
 	{
 		try
 		{
-			FileReader reader = new FileReader("student.txt");
+			FileReader reader = new FileReader("students.txt");
 
 			int character;
 
