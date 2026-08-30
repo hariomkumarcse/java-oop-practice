@@ -1,0 +1,3 @@
+Hello from Java Character Stream.
+FileWriter writes character data.
+This is text data.
