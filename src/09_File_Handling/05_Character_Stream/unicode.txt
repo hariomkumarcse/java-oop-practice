@@ -1,0 +1,4 @@
+Hello Java
+Namaste Hariom
+Java Character Encoding
+English + हिन्दी + 日本語
