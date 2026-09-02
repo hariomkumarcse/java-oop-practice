@@ -1,0 +1,3 @@
+Hello from BufferedOutputStream.
+Buffered streams improve I/O performance.
+This is byte stream data.
