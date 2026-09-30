@@ -1,0 +1,7 @@
+Step 1:
+
+	javac -d . HelloPackage.java
+
+Step 2:
+
+	java simplepackage.HelloPackage
