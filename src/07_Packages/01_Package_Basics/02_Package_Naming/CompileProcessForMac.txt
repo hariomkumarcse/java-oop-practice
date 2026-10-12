@@ -1,0 +1,6 @@
+For PackageNamingDemo.java
+	Step 1:-
+		javac -d . PackageNamingDemo.java
+
+	Step 2:-
+		java com.example.student.PackageNamingDemo
